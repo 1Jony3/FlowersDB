@@ -1,0 +1,14 @@
+<resources>
+    <string name="flowers">Flowers name</string>
+    <string name="age">Flowers age</string>
+    <string name="family">Flowers family</string>
+    <string name="plus">+</string>
+    <string name="add_flower">Add flower</string>
+    <string name="add_family">Add family</string>
+    <string name="app_name">FlowersDB</string>
+    <string name="my_flowers">MY FLOWERS</string>
+    <string name="add_your_flower">Add your first\n flower here</string>
+    <string name="down_arrow">↓</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

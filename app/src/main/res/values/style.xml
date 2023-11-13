@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyTextLabel" parent="TextAppearance.AppCompat">
+
+        <item name="hintTextColor">@color/purple_grey_80</item>
+        <item name="boxStrokeColor">@color/purple_grey_40</item>
+
+    </style>
+</resources>
